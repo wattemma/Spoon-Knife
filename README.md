@@ -1,7 +1,6 @@
 ### Well hello there!!!!!
 
-hey, I WANT TO SAY that my bunny is awesonme cool and IS DA BESTESTSTSTST
-
+hey there
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
